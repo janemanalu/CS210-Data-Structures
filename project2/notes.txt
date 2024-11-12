@@ -1,0 +1,22 @@
+1. Provide a high-level description (ie, using minimal amount of technical
+   jargon) of the project in no more than 200 words.
+        Throughout this project, we acquired knowledge on employing linked lists and manipulating nodes to relocate
+   them either to the front or the back of the list. Additionally, we gained proficiency in transferring and deleting
+   nodes while preserving the data they contained in a variable.
+
+2. Did you receive help from anyone? List their names, status (classmate, 
+   CS210 grad, TA, other), and the nature of help received.
+
+   Name               Status       Help Received
+   ----               ------       -------------
+   Karla               Student      Working together
+   Murad               Student      Working together
+   Amisha              Student      Working together
+   Ahmet               Student      Working together
+
+
+3. List any other comments here. Feel free to provide any feedback on how
+   much you learned from doing the assignment, and whether you enjoyed
+   doing it.
+
+   ...

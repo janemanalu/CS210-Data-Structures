@@ -1,0 +1,25 @@
+1. Provide a high-level description (ie, using minimal amount of technical
+   jargon) of the project in no more than 200 words.
+    This projects helps understanding the basics of java, even though not as much, but the exercise helps
+    more than the project. But from this I familiarized my self more with the basics of java after
+    learning python in cs110.
+
+
+2. Did you receive help from anyone? List their names, status (classmate, 
+   CS210 grad, TA, other), and the nature of help received.
+
+   Name               Status       Help Received
+   ----               ------       -------------
+   Ahmet                Student     Working together
+   Amisha               Student     Working together
+   Murad                Student     Working together
+   Karla                Student     Working together
+   Aryan                Past Student  Help understanding the code
+   Yoav                 Student     Working together
+   Kerem                Student     Working together
+
+3. List any other comments here. Feel free to provide any feedback on how
+   much you learned from doing the assignment, and whether you enjoyed
+   doing it.
+        Professor, the project one is too hard to understand, as it is the start of us studying java,
+        even though we have a python background, it is too hard still.
